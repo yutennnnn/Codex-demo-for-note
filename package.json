@@ -1,0 +1,11 @@
+{
+  "name": "codex-demo-for-note",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "latest"
+  }
+}
